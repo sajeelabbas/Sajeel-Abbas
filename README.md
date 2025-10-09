@@ -21,7 +21,7 @@ Designed and deployed secure cloud infrastructure using **Microsoft Azure**, inc
 Currently in **Semester 3** of the **Computer Systems Technology**, focusing on practical labs in networking, cloud services, and system configuration. Each week involves working with tools like Azure, Linux, and Wireshark to complete structured technical tasks and build real-world problem-solving skills.
 
 ## Relevant Experience
-**LUSH (August/2025 - Present)** Working in the **Distribution & Logistics Department.
+**LUSH (August/2025 - Present)** Working in Distribution & Logistics Department.
 
 ## Contact
 
