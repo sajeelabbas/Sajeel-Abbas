@@ -1,4 +1,4 @@
-# Sajeel-Abbas## 
+# Sajeel-Abbas
 **About**
 
 Hi, I'm **Sajeel**, currently enrolled in Advanced Diploma in Computer Systems Technology at Seneca College, Toronto. This program has equipped me with hands-on practical experience about **Cybersecurity**,* **Basic Networking**, , **AWS**, and **Azure** and **System Administration**, including **Linux**, **Windows Server**.
