@@ -15,7 +15,11 @@ Hi, I'm **Sajeel**, currently enrolled in Advanced Diploma in Computer Systems T
 Achieved **President’s Honour List Award** in **2 consecutive semesters**  
 ## Project
 **Azure Lab Project (MST300)**  
-Designed and deployed secure cloud infrastructure using **Microsoft Azure**, including virtual networks, storage accounts, and role-based access control. Gained experience in cloud architecture, resource automation, and security best practices.
+- Deployed Windows Server AD Domain Controller, Web Server, and client VM on Azure.
+- Joined the client VM to the domain for centralized authentication.
+- Configured virtual networks and subnets, assigning VMs securely.
+- Managed all VMs remotely using Azure Bastion, demonstrating cloud and networking skills.
+- Gained experience in cloud architecture, resource automation, and security best practices.
 
 ## 🎓 Education - Seneca College (2025/Winter to Present)
 Currently in **Semester 3** of the **Computer Systems Technology**, focusing on practical labs in networking, cloud services, and system configuration. Each week involves working with tools like Azure, Linux, and Wireshark to complete structured technical tasks and build real-world problem-solving skills.
