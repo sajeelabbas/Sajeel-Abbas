@@ -3,7 +3,7 @@
 
 Hi, I'm **Sajeel**, currently enrolled in Advanced Diploma in Computer Systems Technology at Seneca College, Toronto. This program has equipped me with hands-on practical experience about **Cybersecurity**,* **Basic Networking**, , **AWS**, and **Azure** and **System Administration**, including **Linux**, **Windows Server**.
 
-## Area OF Expertise
+## Areas OF Expertise
 - Team Collaboration               - Customer Support            - Problem Solving       - Project Management 
 - Reporting and Documentation      - Public Facing Experience    - Teamwork                           
 ## Technical Skills
