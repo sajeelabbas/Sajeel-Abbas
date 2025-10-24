@@ -26,7 +26,7 @@ Currently in **Semester 3** of the **Computer Systems Technology**, focusing on 
 
 ## Certificates
 - Preparing for ComptiA Secuirty+
-- Cisco Nwtworking Basics
+- Cisco Networking Basics
 - IBM Cybersecurity Fundamentals
 
 ## Relevant Experience
