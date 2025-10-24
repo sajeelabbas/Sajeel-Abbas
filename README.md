@@ -24,6 +24,11 @@ Achieved **President’s Honour List Award** in **2 consecutive semesters**
 ## 🎓 Education - Seneca College (2025/Winter to Present)
 Currently in **Semester 3** of the **Computer Systems Technology**, focusing on practical labs in networking, cloud services, and system configuration. Each week involves working with tools like Azure, Linux, and Wireshark to complete structured technical tasks and build real-world problem-solving skills.
 
+## Certificates
+- Preparing for ComptiA Secuirty+
+- Cisco Nwtworking Basics
+- IBM Cybersecurity Fundamentals
+
 ## Relevant Experience
 **LUSH (August/2025 - Present)** Working in Distribution & Logistics Department.
 
