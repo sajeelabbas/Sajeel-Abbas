@@ -5,14 +5,15 @@ Hi, I'm **Sajeel**, currently enrolled in Advanced Diploma in Computer Systems T
 ## Technical Skills
 | Area               | Tools & Technologies                                  |
 |--------------------|-------------------------------------------------------|
-| Operating Systems  | Linux (Ubuntu, CentOS, debian), Windows Server                |
+| Operating Systems  | Linux (Ubuntu, CentOS, Debian), Windows Server                |
 | Networking         | TCP/IP, DHCP, DNS, Routing, Firewalls, Wireshark, Nmap |
 | Cloud Platforms    | AWS, MS Azure      
-| Virtualization     | VMware, VirtualBox                                    |
-| Scripting & Tools  | Bash, PowerShell, sql, C++ and python                                |
+| Virtualization     | VMWare, VirtualBox                                    |
+| Scripting & Tools  | Bash, PowerShell, SQL, C++ and Python                                |
 | Productivity       | Microsoft Suites, Google Workspace              |
 ## Achievements
 Achieved **President’s Honour List Award** in **2 consecutive semesters**  
+
 ## Project
 **Azure Lab Project (MST300)**  
 - Deployed Windows Server AD Domain Controller, Web Server, and client VM on Azure.
@@ -25,7 +26,7 @@ Achieved **President’s Honour List Award** in **2 consecutive semesters**
 Currently in **Semester 3** of the **Computer Systems Technology**, focusing on practical labs in networking, cloud services, and system configuration. Each week involves working with tools like Azure, Linux, and Wireshark to complete structured technical tasks and build real-world problem-solving skills.
 
 ## Certificates
-- Preparing for ComptiA Secuirty+
+- Preparing for CompTIA Secuirty+
 - Cisco Networking Basics
 - IBM Cybersecurity Fundamentals
 
